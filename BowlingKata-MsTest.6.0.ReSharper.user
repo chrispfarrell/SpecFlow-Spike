@@ -1,0 +1,49 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature" type="MsTestTestClassElement" TypeName="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationFeature" type="MsTestTestClassElement" TypeName="Bowling.SpecFlow.ScoreCalculationFeature" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationFeature.AllSpares" ParentId="Bowling.SpecFlow.ScoreCalculationFeature" type="MsTestTestMethodElement" MethodName="AllSpares" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature.AllSpares" ParentId="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature" type="MsTestTestMethodElement" MethodName="AllSpares" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationFeature.AllStrikes" ParentId="Bowling.SpecFlow.ScoreCalculationFeature" type="MsTestTestMethodElement" MethodName="AllStrikes" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationFeature.AnotherBeginnersGame" ParentId="Bowling.SpecFlow.ScoreCalculationFeature" type="MsTestTestMethodElement" MethodName="AnotherBeginnersGame" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationFeature.BeginnersGame" ParentId="Bowling.SpecFlow.ScoreCalculationFeature" type="MsTestTestMethodElement" MethodName="BeginnersGame" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationFeature.GutterGame" ParentId="Bowling.SpecFlow.ScoreCalculationFeature" type="MsTestTestMethodElement" MethodName="GutterGame" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature.OneSingleSpare" ParentId="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature" type="MsTestTestMethodElement" MethodName="OneSingleSpare" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationFeature.OneSingleSpare" ParentId="Bowling.SpecFlow.ScoreCalculationFeature" type="MsTestTestMethodElement" MethodName="OneSingleSpare" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature.ScoreCalculationTables_BeginnersGame" ParentId="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature" type="MsTestTestMethodElement" MethodName="ScoreCalculationTables_BeginnersGame" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature.ScoreCalculationTables_OneSingleSpare" ParentId="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature" type="MsTestTestMethodElement" MethodName="ScoreCalculationTables_OneSingleSpare" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+        <UnitTestElement Provider="MSTest" Id="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature.YetAnotherBeginnersGame" ParentId="Bowling.SpecFlow.ScoreCalculationAlternativeFormsFeature" type="MsTestTestMethodElement" MethodName="YetAnotherBeginnersGame" Project="F402481E-9694-40AB-A185-CC8A331B783B" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F402481E-9694-40AB-A185-CC8A331B783B/f:ScoreCalculation.feature" caret="0" fromTop="0" />
+      <File id="F402481E-9694-40AB-A185-CC8A331B783B/f:ScoreCalculation.feature.cs" caret="4088" fromTop="39" />
+      <File id="290E32E6-7521-47BA-884A-0A90A985CC2C/f:Game.cs" caret="0" fromTop="0" />
+      <File id="F402481E-9694-40AB-A185-CC8A331B783B/f:BowlingSteps.cs" caret="737" fromTop="1" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
